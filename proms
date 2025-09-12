@@ -1,0 +1,1 @@
+i want to write a code that stops the user from making an appointment for the same patient within a day of their previous appointment and the doctor must not have a clash with 2 patient appointment times also the time that is assigned to a patient to visit the doctor must NOT clash with existing appointment times
